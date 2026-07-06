@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard analyzing **23,201 tech job listings** across India to uncover real hiring trends — remote work availability, salary benchmarks by role and experience, in-demand skills, and top hiring companies/cities.
 
-![Dashboard Preview](screenshots/dashboard-overview.png)
+![Dashboard Preview](image/dashboard-overview.png)
 
 ---
 
