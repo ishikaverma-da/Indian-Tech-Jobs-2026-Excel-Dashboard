@@ -78,7 +78,7 @@ An interactive Excel dashboard analyzing **23,201 tech job listings** across Ind
 
 **Ishika Verma**
 Data Analyst | Excel · SQL · Power BI · Python
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn-https://www.linkedin.com/in/ishika-verma-4b60bb3aa](#) · [GitHub- https://github.com/ishikaverma-da](#)
 
 
 
