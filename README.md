@@ -52,19 +52,19 @@ An interactive Excel dashboard analyzing **23,201 tech job listings** across Ind
 
 | Salary by Role | Work Mode Distribution |
 |---|---|
-| ![Salary by Role](screenshots/chart-salary-by-role.png) | ![Work Mode](screenshots/chart-work-mode.png) |
+| ![Salary by Role](image/chart-salary-by-role.png) | ![Work Mode](image/chart-work-mode.png) |
 
 | Top Hiring Companies | City-wise Job Count |
 |---|---|
-| ![Top Companies](screenshots/chart-top-companies.png) | ![Top Cities](screenshots/chart-top-cities.png) |
+| ![Top Companies](image/chart-top-companies.png) | ![Top Cities](image/chart-top-cities.png) |
 
 | Fresher-Friendly Skill Domains | Career Growth Curve (Experience vs Salary) |
 |---|---|
-| ![Skill Domain](screenshots/chart-skill-domain.png) | ![Career Growth](screenshots/chart-experience-salary.png) |
+| ![Skill Domain](image/chart-skill-domain.png) | ![Career Growth](image/chart-experience-salary.png) |
 
 | Weekly Hiring Trend | Most In-Demand Skills |
 |---|---|
-| ![Weekly Trend](screenshots/chart-weekly-trend.png) | ![Top Skills](screenshots/chart-top-skills.png) |
+| ![Weekly Trend](image/chart-weekly-trend.png) | ![Top Skills](image/chart-top-skills.png) |
 
 ---
 
