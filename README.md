@@ -50,17 +50,21 @@ An interactive Excel dashboard analyzing **23,201 tech job listings** across Ind
 
 ## 📈 Chart Gallery
 
-| Work Mode Distribution | Top Hiring Cities |
+| Salary by Role | Work Mode Distribution |
 |---|---|
-| ![Work Mode](screenshots/chart-work-mode.png) | ![Top Cities](screenshots/chart-top-cities.png) |
+| ![Salary by Role](screenshots/chart-salary-by-role.png) | ![Work Mode](screenshots/chart-work-mode.png) |
 
-| Salary by Role | Career Growth Curve |
+| Top Hiring Companies | City-wise Job Count |
 |---|---|
-| ![Salary by Role](screenshots/chart-salary-by-role.png) | ![Career Growth](screenshots/chart-experience-salary.png) |
+| ![Top Companies](screenshots/chart-top-companies.png) | ![Top Cities](screenshots/chart-top-cities.png) |
 
-| Most In-Demand Skills | Top Hiring Companies |
+| Fresher-Friendly Skill Domains | Career Growth Curve (Experience vs Salary) |
 |---|---|
-| ![Top Skills](screenshots/chart-top-skills.png) | ![Top Companies](screenshots/chart-top-companies.png) |
+| ![Skill Domain](screenshots/chart-skill-domain.png) | ![Career Growth](screenshots/chart-experience-salary.png) |
+
+| Weekly Hiring Trend | Most In-Demand Skills |
+|---|---|
+| ![Weekly Trend](screenshots/chart-weekly-trend.png) | ![Top Skills](screenshots/chart-top-skills.png) |
 
 ---
 
@@ -75,3 +79,12 @@ An interactive Excel dashboard analyzing **23,201 tech job listings** across Ind
 **Ishika Verma**
 Data Analyst | Excel · SQL · Power BI · Python
 [LinkedIn](#) · [GitHub](#)
+
+
+
+
+
+
+
+
+
